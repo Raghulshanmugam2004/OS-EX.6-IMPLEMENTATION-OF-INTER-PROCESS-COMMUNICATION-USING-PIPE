@@ -1,4 +1,7 @@
+
+
 # OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE
+
 
 ## AIM:
 To Write C program to illustrate IPC using pipes mechanisms.
